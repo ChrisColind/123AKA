@@ -11,9 +11,6 @@ package progra2_prueba1;
  */
 public class Progra2_Prueba1 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         // TODO code application logic here
     }
